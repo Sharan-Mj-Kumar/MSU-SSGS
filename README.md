@@ -3,23 +3,26 @@ The Salary Slip Generation System is a web application designed to automate and 
 Features:-
 User Registration and Login: Users can register and log in to view their details.
 
-![User Login Page](images/login_page.png)
+![Home Page](HomePage.jpeg)
+
+![User Dashboard](images/admin_dashboard.png)
 
 Admin Dashboard: Admins can manage user accounts, calculate salaries, and generate salary slips.
 
-![Admin Dashboard](images/admin_dashboard.png)
+![Admin Dashboard](AdminPage.jpeg)
 
 Salary Calculation: Calculates gross and net salaries based on user input.
 
-![Gross and Deduction Calculation Page](images/admin_dashboard.png)
+![Gross Calculation Page](GrossCalculation.png)
+![Deduction Calculation Page](DeductionCalculation.png)
 
 PDF Generation: Generates salary slips in PDF format for easy sharing.
 
-![PDF Generation Page](images/admin_dashboard.png)
+![PDF Generation Page](PDFConversionPage.jpeg)
 
 Email Notifications: Sends salary slips to employees via email.
 
-![Email Sharing Page](images/admin_dashboard.png)
+![Email Sharing Page](EmailSharingPage.jpeg)
 
 Technologies Used:-
 Backend: Java, Spring Boot
