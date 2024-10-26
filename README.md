@@ -6,7 +6,7 @@ Features:-
 
 User Registration and Login: Users can log in to view and download salary slips, view and update their details.
 
-![User Dashboard](UserPage.png)
+![User Dashboard](UserPage.jpeg)
 
 Admin Dashboard: Admins can manage user accounts, calculate salaries, and generate salary slips.
 
