@@ -1,11 +1,12 @@
 The Salary Slip Generation System is a web application designed to automate and streamline the process of generating and managing salary slips for university staff. This project provides functionalities for both administrators and users, ensuring efficient salary management.
 
 Features:-
-User Registration and Login: Users can register and log in to view their details.
 
 ![Home Page](HomePage.jpeg)
 
-![User Dashboard](images/admin_dashboard.png)
+User Registration and Login: Users can log in to view and download salary slips, view and update their details.
+
+![User Dashboard](UserPage.png)
 
 Admin Dashboard: Admins can manage user accounts, calculate salaries, and generate salary slips.
 
