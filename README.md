@@ -14,9 +14,12 @@ Calculation and Generation: Admins can perform salary calculation and Generate S
 
 ![CG](CG.jpeg)
 
-Salary Calculation: Calculates gross and net salaries based on user input.
+Gross-Salary Calculation: Calculates gross salary based on user input.
 
 ![Gross Calculation Page](GrossCalculation.png)
+
+Deduction-Salary Calculation: Calculates deduction salary based on gross salary.
+
 ![Deduction Calculation Page](DeductionCalculation.png)
 
 Salary-Bill Generation: Admin can Generate salary bill for particular employee(Salary bill includes all fields with values of zero and Non-zero).
