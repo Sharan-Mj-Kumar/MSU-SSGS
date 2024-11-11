@@ -45,9 +45,16 @@ Generate Report: Admin can generate report for particular Department or Section 
 ![Report Generation Page](Report(1).jpeg)
 ![Report Generation Page](Report(2).jpeg)
 
+Calculation Percentage: Admin can edit Salary Calculation Percentage.
+
+![CP](CP.jpeg)
+
 User Registration and Login: Users can log in to view and download salary slips, view and update their details.
 
 ![User Dashboard](UserPage.jpeg)
+![User Dashboard](VS.jpeg)
+![User Dashboard](VD.jpeg)
+![User Dashboard](UD.jpeg)
 
 Technologies Used:-
 
