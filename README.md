@@ -1,6 +1,6 @@
 The Salary Slip Generation System is a web application designed to automate and streamline the process of generating and managing salary slips for university staff. This project provides functionalities for both administrators and users, ensuring efficient salary management.
 
-Features:-
+Screenshots:-
 
 ![Home Page](HomePage.jpeg)
 
@@ -26,6 +26,7 @@ Email Notifications: Sends salary slips to employees via email.
 ![Email Sharing Page](EmailSharingPage.jpeg)
 
 Technologies Used:-
+![Email Sharing Page]
 !Backend: Java, Spring Boot
 !Frontend: HTML, CSS
 !Database: MySQL
