@@ -21,8 +21,8 @@ Salary Calculation: Calculates gross and net salaries based on user input.
 
 Salary-Bill Generation: Admin can Generate salary bill for particular employee(Salary bill includes all fields with values of zero and Non-zero).
 
-![SB1](SB1.jpeg)
-![SB2](SB2.jpeg)
+![SB](SB1.jpeg)
+![SB](SB2.jpeg)
 
 PDF Generation: Generates salary slips in PDF format for easy sharing.
 
