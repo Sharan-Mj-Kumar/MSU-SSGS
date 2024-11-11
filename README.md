@@ -64,4 +64,4 @@ Frontend: HTML, CSS
 
 Database: MySQL
 
-Other Tools: Git, GitHub, Maven
+IDE: Intellij IDEA
