@@ -6,10 +6,6 @@ Home Page:-
 
 ![Home Page](HomePage.jpeg)
 
-User Registration and Login: Users can log in to view and download salary slips, view and update their details.
-
-![User Dashboard](UserPage.jpeg)
-
 Admin Dashboard: Admins can manage user accounts, calculate salaries, and generate salary slips.
 
 ![Admin Dashboard](AdminPage.jpeg)
@@ -26,6 +22,10 @@ PDF Generation: Generates salary slips in PDF format for easy sharing.
 Email Notifications: Sends salary slips to employees via email.
 
 ![Email Sharing Page](EmailSharingPage.jpeg)
+
+User Registration and Login: Users can log in to view and download salary slips, view and update their details.
+
+![User Dashboard](UserPage.jpeg)
 
 Technologies Used:-
 
