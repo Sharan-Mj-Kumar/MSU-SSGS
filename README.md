@@ -2,6 +2,8 @@ The Salary Slip Generation System is a web application designed to automate and 
 
 Screenshots:-
 
+Home Page:-
+
 ![Home Page](HomePage.jpeg)
 
 User Registration and Login: Users can log in to view and download salary slips, view and update their details.
