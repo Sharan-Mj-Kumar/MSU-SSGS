@@ -23,6 +23,11 @@ Email Notifications: Sends salary slips to employees via email.
 
 ![Email Sharing Page](EmailSharingPage.jpeg)
 
+Generate Report: Admin can generate report for particular Department or Section.
+
+![Report Generation Page](Report(1).jpeg)
+![Report Generation Page](Report(2).jpeg)
+
 User Registration and Login: Users can log in to view and download salary slips, view and update their details.
 
 ![User Dashboard](UserPage.jpeg)
