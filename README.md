@@ -26,8 +26,10 @@ Email Notifications: Sends salary slips to employees via email.
 ![Email Sharing Page](EmailSharingPage.jpeg)
 
 Technologies Used:-
-![Email Sharing Page]
-!Backend: Java, Spring Boot
-!Frontend: HTML, CSS
-!Database: MySQL
-!Other Tools: Git, GitHub, Maven
+Backend: Java, Spring Boot
+
+Frontend: HTML, CSS
+
+Database: MySQL
+
+Other Tools: Git, GitHub, Maven
