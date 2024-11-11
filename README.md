@@ -24,6 +24,11 @@ Salary-Bill Generation: Admin can Generate salary bill for particular employee(S
 ![SB1](SB(1).jpeg)
 ![SB2](SB(2).jpeg)
 
+Salary-Slip Generation: (Salary Slip includes only Non-zero values fields).
+
+![SS1](SS(1).jpeg)
+![SS2](SS(2).jpeg)
+
 PDF Generation: Generates salary slips in PDF format for easy sharing.
 
 ![PDF Generation Page](PDFConversionPage.jpeg)
