@@ -1,5 +1,39 @@
-The Salary Slip Generation System is a web application designed to automate and streamline the process of generating and managing salary slips for university staff. This project provides functionalities for both administrators and users, ensuring efficient salary management.
+Salary Slip Generation System
+The Salary Slip Generation System is a web application developed to automate and streamline the process of generating and managing salary slips for university staff. This system provides a user-friendly interface for both Administrators and Users, ensuring efficient salary management and smooth operation of administrative tasks.
 
+Features
+1. Admin Dashboard
+Admins have access to a comprehensive dashboard where they can manage user accounts, calculate salaries, and generate salary slips for staff.
+
+2. Salary Calculation and Generation
+Admins can easily calculate the salary components (Gross Salary, Deductions) and generate salary slips in PDF format.
+
+3. Gross Salary Calculation
+The system allows admins to calculate the gross salary based on user input such as basic pay, allowances, etc.
+
+4. Deduction Salary Calculation
+Admins can calculate the deduction salary based on the gross salary, including taxes, insurance, and other deductions.
+
+5. Salary Bill Generation
+Admins can generate salary bills for specific employees. These bills include both zero and non-zero fields for clear and transparent salary records.
+
+6. Salary Slip Generation
+The system generates detailed salary slips that include only the non-zero values, making them concise and informative.
+
+7. PDF Generation
+Once the salary slip is generated, it can be converted to a PDF format for easy sharing and distribution.
+
+8. Email Notifications
+Salary slips are automatically sent to employees via email for seamless delivery.
+
+9. Report Generation
+Admins can generate detailed reports for specific departments or sections and download them in PDF format.
+
+10. Edit Calculation Percentages
+Admins have the ability to modify salary calculation percentages for accurate payroll processing.
+
+11. User Registration and Login
+Users can register, log in, and access their salary information. They can view and download their salary slips and update personal details as needed.
 Screenshots:-
 
 Home Page:-
